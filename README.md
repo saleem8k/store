@@ -1,0 +1,4 @@
+store
+=====
+
+Magento store
